@@ -1,0 +1,10 @@
+{
+  "NoiseThreshold": 20,
+  "RewardPoints": 1,
+  "PenaltyPoints": 3,
+  "Sensitivity": 1000,
+  "SilenceDuration": 20,
+  "CelebrationDuration": 3024,
+  "Points": 0,
+  "SoundAlertEnabled": true
+}
